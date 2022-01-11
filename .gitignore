@@ -10,3 +10,7 @@ gradle-app.setting
 
 .env.local
 .env.*.local
+.idea
+.settings
+target
+*.run/*.run.xml
